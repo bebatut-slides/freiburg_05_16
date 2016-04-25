@@ -90,7 +90,7 @@
                         <script type="text/template">
                         ### Complexity of analysis process
                         
-                        TO DO: scheme of workflow
+                        <img src="images/workflow_scheme.png" alt="Workflow scheme" class="no-border" />
 
                         </script>
                     </section>
@@ -99,7 +99,7 @@
                         <script type="text/template">
                         ### Existing tools
 
-                        TO DO : image
+                        <img src="images/existing_tool_diversity.png" alt="Existing tools" class="no-border" />
                         </script>
                     </section>
 
@@ -133,10 +133,10 @@
 
                             <ul class="requirements">
                                 <li>
-                                    <p><i class="fa fa-square-o"></i> Incorporation of numerous tools</p>
-                                    <p><i class="fa fa-square-o"></i> Generation of workflows</p>
-                                    <p><i class="fa fa-square-o"></i> Flexibility and modularity</p>
+                                    <p><i class="fa fa-square-o"></i> Incorporation of numerous but chosen tools</p>
+                                    <p><i class="fa fa-square-o"></i> Generation of modular workflows</p>
                                     <p><i class="fa fa-square-o"></i> Usuability</p>
+                                    <p><i class="fa fa-square-o"></i> Transparency and reproducibility</p>
                                 </li>
                             </ul>
                         </script>
@@ -170,32 +170,32 @@
                         <script type="text/template">
                             ### Galaxy
 
-                            Fit main requirements
-
                             <ul class="requirements">
                                 <li>
-                                    <p><i class="fa fa-square-o"></i> Incorporation of numerous tools</p>
-                                    <p><i class="fa fa-square-o"></i> Generation of workflows</p>
-                                    <p><i class="fa fa-square-o"></i> Flexibility and modularity</p>
+                                    <p><i class="fa fa-square-o"></i> Incorporation of numerous but chosen tools</p>
+                                    <p><i class="fa fa-square-o"></i> Generation of modular workflows</p>
                                     <p><i class="fa fa-square-o"></i> Usuability</p>
+                                    <p><i class="fa fa-square-o"></i> Transparency and reproducibility</p>
                                 </li>
                             </ul>
                         </script>
                     </section>
-                    
+
+                </section>
+
+                <section>
+
                     <section data-markdown>
                         <script type="text/template">
-                        ### Custom Galaxy instance
-
-                        <img src="images/galaxy_instance.png" alt="ASaiM Galaxy instance" class="no-border" />
+                        ##  Customization of a Galaxy instance
 
                         </script>
                     </section>
 
                     <section data-markdown>
-                        ### To launch the instance
+                        ### Customization
 
-                        * Get the code source from [GitHub](https://github.com/ASaiM/framework)
+                        * Get source code from [GitHub](https://github.com/ASaiM/framework)
                         ```
                         $ git clone https://github.com/ASaiM/framework.git
                         $ cd framework
@@ -218,6 +218,15 @@
 
                     <section data-markdown>
                         <script type="text/template">
+                        ### Custom Galaxy instance
+
+                        <img src="images/galaxy_instance.png" alt="ASaiM Galaxy instance" class="no-border" />
+
+                        </script>
+                    </section>
+
+                    <section data-markdown>
+                        <script type="text/template">
                         ### Behind the magic
 
                         1. Get latest revision of Galaxy from GitHub
@@ -231,9 +240,36 @@
 
                     <section data-markdown>
                         <script type="text/template">
+                            ### ASaiM framework
+
+                            <ul class="requirements">
+                                <li>
+                                    <p><i class="fa fa-square-o"></i> Incorporation of numerous but chosen tools</p>
+                                    <p><i class="fa fa-square-o"></i> Generation of modular workflows</p>
+                                    <p><i class="fa fa-minus-square-o"></i> Usuability</p>
+                                    <p><i class="fa fa-minus-square-o"></i> Transparency and reproducibility</p>
+                                </li>
+                            </ul>
+                        </script>
+                    </section>
+
+                    <section data-markdown>
+                        <script type="text/template">
+                        ### Tools
+
+                        ~ 60 chosen and integrated tools
+
+                        <img src="images/hierarchical_tool_organisation.png" alt="Hierarchical organisation of tools" class="no-border" height=500/>
+
+                        </script>
+                    </section>
+
+                    <section data-markdown>
+                        <script type="text/template">
                         ### Development of Galaxy wrappers
                         
-                        - [https://github.com/ASaiM/galaxytools](https://github.com/ASaiM/galaxytools)
+                        - Dedicated tools
+                            - [https://github.com/ASaiM/galaxytools](https://github.com/ASaiM/galaxytools)
                         - Contributions
                             - IUC tools
                             - Bjorn' tools
@@ -244,11 +280,61 @@
 
                     <section data-markdown>
                         <script type="text/template">
-                        ### Workflows
+                            ### ASaiM framework
+
+                            <ul class="requirements">
+                                <li>
+                                    <p><i class="fa fa-check-square-o"></i> Incorporation of numerous but chosen tools</p>
+                                    <p><i class="fa fa-square-o"></i> Generation of modular workflows</p>
+                                    <p><i class="fa fa-minus-square-o"></i> Usuability</p>
+                                    <p><i class="fa fa-minus-square-o"></i> Transparency and reproducibility</p>
+                                </li>
+                            </ul>
+                        </script>
+                    </section>
+
+                    <section data-markdown>
+                        <script type="text/template">
+                        ### Main workflow
                         
-                        - Main
-                        - Workflows for comparative analyses
+                        <img src="images/asaim_main_workflow.png" alt="ASaiM main workflow" class="no-border"/>
+
+                        </script>
+                    </section>
+
+                    <section data-markdown>
+                        <script type="text/template">
+                        ### Main workflow validation
                         
+                        
+
+                        </script>
+                    </section>
+
+                    <section data-markdown>
+                        <script type="text/template">
+                        ### Workflows to compare 2 datasets
+
+                        - Taxonomic results 
+                        - Gene families/pathways abundances
+                        - GO slim terms abundances
+                        - Gene families/pathways abundances related to species abundances
+
+                        </script>
+                    </section>
+
+                    <section data-markdown>
+                        <script type="text/template">
+                            ### ASaiM framework
+
+                            <ul class="requirements">
+                                <li>
+                                    <p><i class="fa fa-check-square-o"></i> Incorporation of numerous but chosen tools</p>
+                                    <p><i class="fa fa-check-square-o"></i> Generation of modular workflows</p>
+                                    <p><i class="fa fa-minus-square-o"></i> Usuability</p>
+                                    <p><i class="fa fa-minus-square-o"></i> Transparency and reproducibility</p>
+                                </li>
+                            </ul>
                         </script>
                     </section>
 
@@ -260,6 +346,25 @@
                         <br/>
                         <small><a href="http://asaim.readthedocs.org/">http://asaim.readthedocs.org/</a></small>
                         </script>
+                    </section>
+
+                    <section data-markdown>
+                        <script type="text/template">
+                            ### ASaiM framework
+
+                            <ul class="requirements">
+                                <li>
+                                    <p><i class="fa fa-check-square-o"></i> Incorporation of numerous but chosen tools</p>
+                                    <p><i class="fa fa-check-square-o"></i> Generation of modular workflows</p>
+                                    <p><i class="fa fa-check-square-o"></i> Usuability</p>
+                                    <p><i class="fa fa-check-square-o"></i> Transparency and reproducibility</p>
+                                </li>
+                            </ul>
+                        </script>
+                    </section>
+
+                    <section>
+                        <img src="images/framework_scheme.png" alt="ASaiM main figure" class="no-border"/>
                     </section>
 
                 </section>
