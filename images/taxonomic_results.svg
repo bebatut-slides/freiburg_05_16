@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="304.89975mm"
-   height="334.58041mm"
-   viewBox="0 0 1080.3534 1185.5211"
+   width="425.92456mm"
+   height="277.85217mm"
+   viewBox="0 0 1509.1815 984.51553"
    id="svg5132"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -7974,9 +7974,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="121.5471"
-     inkscape:cy="526.26413"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="934.50022"
+     inkscape:cy="325.25852"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -7988,7 +7988,8 @@
      inkscape:window-height="851"
      inkscape:window-x="0"
      inkscape:window-y="1"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     showguides="false" />
   <metadata
      id="metadata5137">
     <rdf:RDF>
@@ -8005,9 +8006,9 @@
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(226.5471,126.89485)">
+     transform="translate(403.33039,-73.105157)">
     <g
-       transform="matrix(1.25,0,0,1.25,58.428333,-115.42831)"
+       transform="matrix(1.25,0,0,1.25,61.285476,84.57169)"
        id="g4657">
       <g
          transform="translate(-201.3737,-201.55889)"
@@ -13828,7 +13829,7 @@
          style="fill:#73d448;fill-opacity:0.19607843;stroke:none;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
     </g>
     <g
-       transform="matrix(1.1797687,0,0,1.1797687,-214.72941,555.05863)"
+       transform="matrix(0.92825632,0,0,0.92825632,-131.13976,610.56179)"
        id="g4334">
       <g
          transform="translate(-154.261,-154.392)"
@@ -15161,35 +15162,44 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot13338"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(428.57142,34.285717)"><flowRegion
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-28.571435,-97.142853)"><flowRegion
          id="flowRegion13340"><rect
            id="rect13342"
            width="645.71429"
            height="305.71429"
            x="-391.42856"
-           y="358.07648" /></flowRegion><flowPara
-         id="flowPara13344">Expected taxonomic results</flowPara></flowRoot>    <flowRoot
+           y="358.07648"
+           style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         id="flowPara13344">Expected </flowPara><flowPara
+         id="flowPara13434">taxonomic </flowPara><flowPara
+         id="flowPara13436">results</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot13338-1"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(212.95117,134.02265)"><flowRegion
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-213.6246,353.67603)"><flowRegion
          id="flowRegion13340-6"><rect
            id="rect13342-7"
            width="645.71429"
            height="305.71429"
            x="-391.42856"
-           y="358.07648" /></flowRegion><flowPara
-         id="flowPara13344-1">EBI taxonomic results</flowPara></flowRoot>    <flowRoot
+           y="358.07648"
+           style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         id="flowPara13344-1">EBI </flowPara><flowPara
+         id="flowPara13438">taxonomic </flowPara><flowPara
+         id="flowPara13440">results</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot13338-1-7"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(737.92774,132.18532)"><flowRegion
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(1052.2135,366.47103)"><flowRegion
          id="flowRegion13340-6-4"><rect
            id="rect13342-7-4"
            width="645.71429"
            height="305.71429"
            x="-391.42856"
-           y="358.07648" /></flowRegion><flowPara
-         id="flowPara13344-1-2">ASaiM taxonomic results</flowPara></flowRoot>  </g>
+           y="358.07648"
+           style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         id="flowPara13344-1-2">ASaiM </flowPara><flowPara
+         id="flowPara13442">taxonomic </flowPara><flowPara
+         id="flowPara13444">results</flowPara></flowRoot>  </g>
 </svg>

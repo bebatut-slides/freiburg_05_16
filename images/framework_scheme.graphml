@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:java="http://www.yworks.com/xml/yfiles-common/1.0/java" xmlns:sys="http://www.yworks.com/xml/yfiles-common/markup/primitives/2.0" xmlns:x="http://www.yworks.com/xml/yfiles-common/markup/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:y="http://www.yworks.com/xml/graphml" xmlns:yed="http://www.yworks.com/xml/yed/3" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
-  <!--Created by yEd 3.14.2-->
+  <!--Created by yEd 3.14.4-->
   <key attr.name="Description" attr.type="string" for="graph" id="d0"/>
   <key for="port" id="d1" yfiles.type="portgraphics"/>
   <key for="port" id="d2" yfiles.type="portgeometry"/>
@@ -37,14 +37,14 @@ data from microbiota<y:LabelModel>
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GroupNode>
-              <y:Geometry height="756.4462339153736" width="1194.006822440037" x="945.2736532427243" y="-171.04920494846053"/>
+              <y:Geometry height="716.7925058440981" width="1194.006822440037" x="945.2736532427243" y="-171.04920494846053"/>
               <y:Fill hasColor="false" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="right" autoSizePolicy="node_width" borderDistance="0.0" fontFamily="Dialog" fontSize="25" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.443359375" modelName="internal" modelPosition="t" textColor="#000000" visible="true" width="1194.006822440037" x="0.0" y="0.0">ASaiM Galaxy instance</y:NodeLabel>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" borderDistance="0.0" fontFamily="Dialog" fontSize="25" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.443359375" modelName="internal" modelPosition="t" textColor="#000000" visible="true" width="1194.006822440037" x="0.0" y="0.0">Custom Galaxy instance</y:NodeLabel>
               <y:Shape type="roundrectangle"/>
               <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
               <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
-              <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="2" rightF="2.4702151763199254" top="0" topF="0.0"/>
             </y:GroupNode>
             <y:GroupNode>
               <y:Geometry height="50.0" width="50.0" x="723.2" y="407.36000000000024"/>
@@ -221,7 +221,7 @@ raw microbiota sequences</y:NodeLabel>
                       <y:Geometry height="27.200000000000045" width="118.08025286132829" x="1320.4260546428366" y="-31.607798698460527"/>
                       <y:Fill color="#B5BBD0" color2="#B5BBD0" transparent="false"/>
                       <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                      <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" modelName="custom" textColor="#000000" visible="true" width="90.478515625" x="13.800868618164259" y="4.533593750000023">Control quality<y:LabelModel>
+                      <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" modelName="custom" textColor="#000000" visible="true" width="90.478515625" x="13.800868618164031" y="4.533593750000023">Control quality<y:LabelModel>
                           <y:SmartNodeLabelModel distance="4.0"/>
                         </y:LabelModel>
                         <y:ModelParameter>
@@ -316,7 +316,7 @@ two datasets<y:LabelModel>
             <y:ProxyAutoBoundsNode>
               <y:Realizers active="0">
                 <y:GroupNode>
-                  <y:Geometry height="290.5900140006553" width="897.7462973416548" x="1224.0639631647866" y="279.8070149662577"/>
+                  <y:Geometry height="274.21128592937976" width="897.7462973416548" x="1224.0639631647866" y="256.53201496625775"/>
                   <y:Fill hasColor="false" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
                   <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#B5BBD0" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.666015625" modelName="internal" modelPosition="t" textColor="#000000" visible="true" width="897.7462973416548" x="0.0" y="0.0">Chosen and provisioned tools</y:NodeLabel>
@@ -345,7 +345,7 @@ two datasets<y:LabelModel>
                 <y:ProxyAutoBoundsNode>
                   <y:Realizers active="0">
                     <y:GroupNode>
-                      <y:Geometry height="121.13484756377261" width="210.66493289204823" x="1239.0639631647866" y="321.2631227076202"/>
+                      <y:Geometry height="121.13484756377261" width="210.66493289204823" x="1239.0639631647866" y="297.9881227076202"/>
                       <y:Fill hasColor="false" transparent="false"/>
                       <y:BorderStyle color="#000000" type="line" width="1.0"/>
                       <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#B5BBD0" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.666015625" modelName="internal" modelPosition="t" textColor="#000000" visible="true" width="210.66493289204823" x="0.0" y="0.0">Common</y:NodeLabel>
@@ -371,7 +371,7 @@ two datasets<y:LabelModel>
                 <node id="n1::n2::n0::n0">
                   <data key="d6">
                     <y:GenericNode configuration="com.yworks.flowchart.process">
-                      <y:Geometry height="27.200000000000045" width="62.89447691064106" x="1254.0639631647866" y="357.9291383326202"/>
+                      <y:Geometry height="27.200000000000045" width="62.89447691064106" x="1254.0639631647866" y="334.6541383326202"/>
                       <y:Fill color="#B5BBD0" color2="#B5BBD0" transparent="false"/>
                       <y:BorderStyle color="#000000" type="line" width="1.0"/>
                       <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" modelName="custom" textColor="#000000" visible="true" width="54.373046875" x="4.26071501782053" y="4.533593750000023">Get Data<y:LabelModel>
@@ -387,10 +387,10 @@ two datasets<y:LabelModel>
                 <node id="n1::n2::n0::n1">
                   <data key="d6">
                     <y:GenericNode configuration="com.yworks.flowchart.process">
-                      <y:Geometry height="27.200000000000045" width="101.43999999999983" x="1330.971990520515" y="357.9291383326202"/>
+                      <y:Geometry height="27.200000000000045" width="101.43999999999983" x="1330.971990520515" y="334.6541383326202"/>
                       <y:Fill color="#B5BBD0" color2="#B5BBD0" transparent="false"/>
                       <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                      <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" modelName="custom" textColor="#000000" visible="true" width="96.09765625" x="2.6711718749998" y="4.533593750000023">Manipulate files<y:LabelModel>
+                      <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" modelName="custom" textColor="#000000" visible="true" width="96.09765625" x="2.6711718750000273" y="4.533593750000023">Manipulate files<y:LabelModel>
                           <y:SmartNodeLabelModel distance="4.0"/>
                         </y:LabelModel>
                         <y:ModelParameter>
@@ -403,7 +403,7 @@ two datasets<y:LabelModel>
                 <node id="n1::n2::n0::n2">
                   <data key="d6">
                     <y:GenericNode configuration="com.yworks.flowchart.process">
-                      <y:Geometry height="27.200000000000045" width="163.53619965624716" x="1259.9045264964516" y="400.19797027139276"/>
+                      <y:Geometry height="27.200000000000045" width="163.53619965624716" x="1259.9045264964516" y="376.9229702713928"/>
                       <y:Fill color="#B5BBD0" color2="#B5BBD0" transparent="false"/>
                       <y:BorderStyle color="#000000" type="line" width="1.0"/>
                       <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" modelName="custom" textColor="#000000" visible="true" width="154.662109375" x="4.437045140623468" y="4.533593750000023">Manipulate sequence files<y:LabelModel>
@@ -424,7 +424,7 @@ two datasets<y:LabelModel>
                 <y:ProxyAutoBoundsNode>
                   <y:Realizers active="0">
                     <y:GroupNode>
-                      <y:Geometry height="118.0612920573792" width="466.11625519432164" x="1464.3187222145982" y="324.3366782140136"/>
+                      <y:Geometry height="118.0612920573792" width="466.11625519432164" x="1464.3187222145982" y="301.0616782140136"/>
                       <y:Fill hasColor="false" transparent="false"/>
                       <y:BorderStyle color="#000000" type="line" width="1.0"/>
                       <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#B5BBD0" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.666015625" modelName="internal" modelPosition="t" textColor="#000000" visible="true" width="466.11625519432164" x="0.0" y="0.0">Sequence preparation</y:NodeLabel>
@@ -450,10 +450,10 @@ two datasets<y:LabelModel>
                 <node id="n1::n2::n1::n0">
                   <data key="d6">
                     <y:GenericNode configuration="com.yworks.flowchart.process">
-                      <y:Geometry height="27.200000000000045" width="201.79132439623731" x="1479.3187222145982" y="362.94141421850185"/>
+                      <y:Geometry height="27.200000000000045" width="201.79132439623731" x="1479.3187222145982" y="339.66641421850187"/>
                       <y:Fill color="#B5BBD0" color2="#B5BBD0" transparent="false"/>
                       <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                      <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" modelName="custom" textColor="#000000" visible="true" width="194.013671875" x="3.888826260618771" y="4.533593750000023">Assemble paired-end sequences<y:LabelModel>
+                      <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" modelName="custom" textColor="#000000" visible="true" width="194.013671875" x="3.8888262606185435" y="4.533593750000023">Assemble paired-end sequences<y:LabelModel>
                           <y:SmartNodeLabelModel distance="4.0"/>
                         </y:LabelModel>
                         <y:ModelParameter>
@@ -466,10 +466,10 @@ two datasets<y:LabelModel>
                 <node id="n1::n2::n1::n1">
                   <data key="d6">
                     <y:GenericNode configuration="com.yworks.flowchart.process">
-                      <y:Geometry height="27.200000000000045" width="101.43999999999983" x="1695.274956511538" y="362.94141421850185"/>
+                      <y:Geometry height="27.200000000000045" width="101.43999999999983" x="1695.274956511538" y="339.66641421850187"/>
                       <y:Fill color="#B5BBD0" color2="#B5BBD0" transparent="false"/>
                       <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                      <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" modelName="custom" textColor="#000000" visible="true" width="90.478515625" x="5.4807421874998" y="4.533593750000023">Control quality<y:LabelModel>
+                      <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" modelName="custom" textColor="#000000" visible="true" width="90.478515625" x="5.480742187500027" y="4.533593750000023">Control quality<y:LabelModel>
                           <y:SmartNodeLabelModel distance="4.0"/>
                         </y:LabelModel>
                         <y:ModelParameter>
@@ -482,10 +482,10 @@ two datasets<y:LabelModel>
                 <node id="n1::n2::n1::n2">
                   <data key="d6">
                     <y:GenericNode configuration="com.yworks.flowchart.process">
-                      <y:Geometry height="27.200000000000045" width="118.08025286132829" x="1638.4482344168234" y="400.19797027139276"/>
+                      <y:Geometry height="27.200000000000045" width="118.08025286132829" x="1638.4482344168234" y="376.9229702713928"/>
                       <y:Fill color="#B5BBD0" color2="#B5BBD0" transparent="false"/>
                       <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                      <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" modelName="custom" textColor="#000000" visible="true" width="110.1015625" x="3.989345180664259" y="4.533593750000023">Cluster sequences<y:LabelModel>
+                      <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" modelName="custom" textColor="#000000" visible="true" width="110.1015625" x="3.9893451806640314" y="4.533593750000023">Cluster sequences<y:LabelModel>
                           <y:SmartNodeLabelModel distance="4.0"/>
                         </y:LabelModel>
                         <y:ModelParameter>
@@ -498,7 +498,7 @@ two datasets<y:LabelModel>
                 <node id="n1::n2::n1::n3">
                   <data key="d6">
                     <y:GenericNode configuration="com.yworks.flowchart.process">
-                      <y:Geometry height="27.200000000000045" width="110.19802782175157" x="1479.7288960568349" y="400.19797027139276"/>
+                      <y:Geometry height="27.200000000000045" width="110.19802782175157" x="1479.7288960568349" y="376.9229702713928"/>
                       <y:Fill color="#B5BBD0" color2="#B5BBD0" transparent="false"/>
                       <y:BorderStyle color="#000000" type="line" width="1.0"/>
                       <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" modelName="custom" textColor="#000000" visible="true" width="99.56640625" x="5.315810785875783" y="4.533593750000023">Search similarity<y:LabelModel>
@@ -514,10 +514,10 @@ two datasets<y:LabelModel>
                 <node id="n1::n2::n1::n4">
                   <data key="d6">
                     <y:GenericNode configuration="com.yworks.flowchart.process">
-                      <y:Geometry height="27.200000000000045" width="110.38517959253136" x="1805.0497978163885" y="400.19797027139276"/>
+                      <y:Geometry height="27.200000000000045" width="110.38517959253136" x="1805.0497978163885" y="376.9229702713928"/>
                       <y:Fill color="#B5BBD0" color2="#B5BBD0" transparent="false"/>
                       <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                      <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" modelName="custom" textColor="#000000" visible="true" width="96.677734375" x="6.853722608765793" y="4.533593750000023">Manipulate RNA<y:LabelModel>
+                      <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" modelName="custom" textColor="#000000" visible="true" width="96.677734375" x="6.853722608765565" y="4.533593750000023">Manipulate RNA<y:LabelModel>
                           <y:SmartNodeLabelModel distance="4.0"/>
                         </y:LabelModel>
                         <y:ModelParameter>
@@ -530,10 +530,10 @@ two datasets<y:LabelModel>
                 <node id="n1::n2::n1::n5">
                   <data key="d6">
                     <y:GenericNode configuration="com.yworks.flowchart.process">
-                      <y:Geometry height="27.200000000000045" width="101.43999999999983" x="1813.99497740892" y="362.94141421850185"/>
+                      <y:Geometry height="27.200000000000045" width="101.43999999999983" x="1813.99497740892" y="339.66641421850187"/>
                       <y:Fill color="#B5BBD0" color2="#B5BBD0" transparent="false"/>
                       <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                      <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" modelName="custom" textColor="#000000" visible="true" width="80.7578125" x="10.341093750000027" y="4.533593750000023">vsearch tools<y:LabelModel>
+                      <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" modelName="custom" textColor="#000000" visible="true" width="80.7578125" x="10.3410937499998" y="4.533593750000023">vsearch tools<y:LabelModel>
                           <y:SmartNodeLabelModel distance="4.0"/>
                         </y:LabelModel>
                         <y:ModelParameter>
@@ -551,7 +551,7 @@ two datasets<y:LabelModel>
                 <y:ProxyAutoBoundsNode>
                   <y:Realizers active="0">
                     <y:GroupNode>
-                      <y:Geometry height="81.62033062424473" width="867.7462973416548" x="1239.0639631647866" y="473.7766983426683"/>
+                      <y:Geometry height="81.62033062424473" width="867.7462973416548" x="1239.0639631647866" y="434.12297027139283"/>
                       <y:Fill hasColor="false" transparent="false"/>
                       <y:BorderStyle color="#000000" type="line" width="1.0"/>
                       <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#B5BBD0" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.666015625" modelName="internal" modelPosition="t" textColor="#000000" visible="true" width="867.7462973416548" x="0.0" y="0.0">Metagenomics</y:NodeLabel>
@@ -577,7 +577,7 @@ two datasets<y:LabelModel>
                 <node id="n1::n2::n2::n0">
                   <data key="d6">
                     <y:GenericNode configuration="com.yworks.flowchart.process">
-                      <y:Geometry height="27.200000000000045" width="267.12113179825246" x="1254.0639631647866" y="511.8198714672907"/>
+                      <y:Geometry height="27.200000000000045" width="267.12113179825246" x="1254.0639631647866" y="472.16614339601523"/>
                       <y:Fill color="#B5BBD0" color2="#B5BBD0" transparent="false"/>
                       <y:BorderStyle color="#000000" type="line" width="1.0"/>
                       <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" modelName="custom" textColor="#000000" visible="true" width="230.0546875" x="18.53322214912623" y="4.533593750000023">Assign taxonomy for all sequence type<y:LabelModel>
@@ -593,10 +593,10 @@ two datasets<y:LabelModel>
                 <node id="n1::n2::n2::n1">
                   <data key="d6">
                     <y:GenericNode configuration="com.yworks.flowchart.process">
-                      <y:Geometry height="27.200000000000045" width="129.02778763851825" x="1607.5342857047517" y="511.8198714672907"/>
+                      <y:Geometry height="27.200000000000045" width="129.02778763851825" x="1607.5342857047517" y="472.16614339601523"/>
                       <y:Fill color="#B5BBD0" color2="#B5BBD0" transparent="false"/>
                       <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                      <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" modelName="custom" textColor="#000000" visible="true" width="121.638671875" x="3.6945578817592377" y="4.533593750000023">Analyze metabolism<y:LabelModel>
+                      <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" modelName="custom" textColor="#000000" visible="true" width="121.638671875" x="3.6945578817590103" y="4.533593750000023">Analyze metabolism<y:LabelModel>
                           <y:SmartNodeLabelModel distance="4.0"/>
                         </y:LabelModel>
                         <y:ModelParameter>
@@ -609,7 +609,7 @@ two datasets<y:LabelModel>
                 <node id="n1::n2::n2::n2">
                   <data key="d6">
                     <y:GenericNode configuration="com.yworks.flowchart.process">
-                      <y:Geometry height="29.95431499924473" width="268.89899642145883" x="1822.9112640849823" y="510.4427139676683"/>
+                      <y:Geometry height="29.95431499924473" width="268.89899642145883" x="1822.9112640849823" y="470.78898589639283"/>
                       <y:Fill color="#B5BBD0" color2="#B5BBD0" transparent="false"/>
                       <y:BorderStyle color="#000000" type="line" width="1.0"/>
                       <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" modelName="custom" textColor="#000000" visible="true" width="251.88671875" x="8.506138835729416" y="5.910751249622422">Combine functional and taxonomic results<y:LabelModel>
@@ -630,7 +630,7 @@ two datasets<y:LabelModel>
                 <y:ProxyAutoBoundsNode>
                   <y:Realizers active="0">
                     <y:GroupNode>
-                      <y:Geometry height="133.78858730289096" width="157.85397255928478" x="1948.9562879471566" y="316.4730305912577"/>
+                      <y:Geometry height="133.78858730289096" width="157.85397255928478" x="1948.9562879471566" y="293.19803059125775"/>
                       <y:Fill hasColor="false" transparent="false"/>
                       <y:BorderStyle color="#000000" type="line" width="1.0"/>
                       <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#B5BBD0" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="39.33203125" modelName="internal" modelPosition="t" textColor="#000000" visible="true" width="157.85397255928478" x="0.0" y="0.0">Statististics and 
@@ -657,7 +657,7 @@ visualization</y:NodeLabel>
                 <node id="n1::n2::n3::n0">
                   <data key="d6">
                     <y:GenericNode configuration="com.yworks.flowchart.process">
-                      <y:Geometry height="27.200000000000045" width="96.73517212561546" x="1979.515688163992" y="370.8050618412577"/>
+                      <y:Geometry height="27.200000000000045" width="96.73517212561546" x="1979.515688163992" y="347.53006184125775"/>
                       <y:Fill color="#B5BBD0" color2="#B5BBD0" transparent="false"/>
                       <y:BorderStyle color="#000000" type="line" width="1.0"/>
                       <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" modelName="custom" textColor="#000000" visible="true" width="85.099609375" x="5.817781375307732" y="4.533593750000023">Visualize data<y:LabelModel>
@@ -673,10 +673,10 @@ visualization</y:NodeLabel>
                 <node id="n1::n2::n3::n1">
                   <data key="d6">
                     <y:GenericNode configuration="com.yworks.flowchart.process">
-                      <y:Geometry height="27.200000000000045" width="127.85397255928478" x="1963.9562879471566" y="408.06161789414864"/>
+                      <y:Geometry height="27.200000000000045" width="127.85397255928478" x="1963.9562879471566" y="384.78661789414866"/>
                       <y:Fill color="#B5BBD0" color2="#B5BBD0" transparent="false"/>
                       <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                      <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" modelName="custom" textColor="#000000" visible="true" width="112.375" x="7.7394862796422785" y="4.533593750000023">Compute statistics<y:LabelModel>
+                      <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" modelName="custom" textColor="#000000" visible="true" width="112.375" x="7.739486279642506" y="4.533593750000023">Compute statistics<y:LabelModel>
                           <y:SmartNodeLabelModel distance="4.0"/>
                         </y:LabelModel>
                         <y:ModelParameter>
@@ -693,7 +693,7 @@ visualization</y:NodeLabel>
         <node id="n1::n3">
           <data key="d6">
             <y:GenericNode configuration="com.yworks.flowchart.process">
-              <y:Geometry height="40.0" width="156.1712570648009" x="969.325303500447" y="530.397028966913"/>
+              <y:Geometry height="40.0" width="156.1712570648009" x="969.325303500447" y="490.7433008956375"/>
               <y:Fill color="#3B4865" color2="#3B4865" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="27.5546875" modelName="custom" textColor="#FFFFFF" visible="true" width="149.2734375" x="3.4489097824005057" y="6.22265625">Data download<y:LabelModel>
@@ -712,10 +712,10 @@ visualization</y:NodeLabel>
             <y:ProxyAutoBoundsNode>
               <y:Realizers active="0">
                 <y:GroupNode>
-                  <y:Geometry height="132.0192435285726" width="202.73242840933472" x="1921.5480472734266" y="27.17319830852759"/>
+                  <y:Geometry height="132.0192435285726" width="202.7324284093345" x="1902.4161579675003" y="62.71332607595605"/>
                   <y:Fill hasColor="false" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#5D7DD5" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.666015625" modelName="internal" modelPosition="t" textColor="#000000" visible="true" width="202.73242840933472" x="0.0" y="0.0">Imported databases</y:NodeLabel>
+                  <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#5D7DD5" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.666015625" modelName="internal" modelPosition="t" textColor="#000000" visible="true" width="202.7324284093345" x="0.0" y="0.0">Imported databases</y:NodeLabel>
                   <y:Shape type="roundrectangle"/>
                   <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
                   <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
@@ -738,7 +738,7 @@ visualization</y:NodeLabel>
             <node id="n1::n4::n0">
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.flowchart.process">
-                  <y:Geometry height="27.200000000000045" width="80.0" x="2016.0156478083763" y="66.26092680935207"/>
+                  <y:Geometry height="27.200000000000045" width="80.0" x="1996.88375850245" y="101.80105457678053"/>
                   <y:Fill color="#5D7DD5" color2="#5D7DD5" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
                   <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" modelName="custom" textColor="#000000" visible="true" width="73.9140625" x="3.04296875" y="4.533593750000023">ChocoPhlAn<y:LabelModel>
@@ -754,7 +754,7 @@ visualization</y:NodeLabel>
             <node id="n1::n4::n1">
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.flowchart.process">
-                  <y:Geometry height="27.200000000000045" width="66.73517212561546" x="1945.7004613756897" y="116.99244183710013"/>
+                  <y:Geometry height="27.200000000000045" width="66.73517212561546" x="1926.5685720697634" y="152.5325696045286"/>
                   <y:Fill color="#5D7DD5" color2="#5D7DD5" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
                   <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" modelName="custom" textColor="#000000" visible="true" width="57.091796875" x="4.821687625307732" y="4.533593750000023">UniRef50<y:LabelModel>
@@ -770,10 +770,10 @@ visualization</y:NodeLabel>
             <node id="n1::n4::n2">
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.flowchart.process">
-                  <y:Geometry height="27.200000000000045" width="40.31518643268669" x="1945.7004613756897" y="66.26092680935207"/>
+                  <y:Geometry height="27.200000000000045" width="40.31518643268669" x="1926.5685720697634" y="101.80105457678053"/>
                   <y:Fill color="#5D7DD5" color2="#5D7DD5" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" modelName="custom" textColor="#000000" visible="true" width="36.443359375" x="1.9359135288432299" y="4.533593750000023">SILVA<y:LabelModel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" modelName="custom" textColor="#000000" visible="true" width="36.443359375" x="1.9359135288434572" y="4.533593750000023">SILVA<y:LabelModel>
                       <y:SmartNodeLabelModel distance="4.0"/>
                     </y:LabelModel>
                     <y:ModelParameter>
@@ -786,10 +786,10 @@ visualization</y:NodeLabel>
             <node id="n1::n4::n3">
               <data key="d6">
                 <y:GenericNode configuration="com.yworks.flowchart.process">
-                  <y:Geometry height="27.200000000000045" width="80.0" x="2029.2804756827613" y="116.99244183710013"/>
+                  <y:Geometry height="27.200000000000045" width="80.0" x="2010.148586376835" y="152.5325696045286"/>
                   <y:Fill color="#5D7DD5" color2="#5D7DD5" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" modelName="custom" textColor="#000000" visible="true" width="71.34765625" x="4.326171875000227" y="4.533593750000023">MetaPhlan2<y:LabelModel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" modelName="custom" textColor="#000000" visible="true" width="71.34765625" x="4.326171875" y="4.533593750000023">MetaPhlan2<y:LabelModel>
                       <y:SmartNodeLabelModel distance="4.0"/>
                     </y:LabelModel>
                     <y:ModelParameter>
@@ -804,7 +804,7 @@ visualization</y:NodeLabel>
         <node id="n1::n5">
           <data key="d6">
             <y:GenericNode configuration="com.yworks.flowchart.data">
-              <y:Geometry height="40.0" width="156.48481356731304" x="969.1620618698371" y="21.84730796511502"/>
+              <y:Geometry height="40.0" width="156.48481356731304" x="969.1620618698371" y="10.926564055445795"/>
               <y:Fill color="#3B4865" color2="#3B4865" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="27.5546875" modelName="custom" textColor="#FFFFFF" visible="true" width="131.958984375" x="12.262914596156406" y="6.22265625">Input dataset<y:LabelModel>
@@ -820,7 +820,7 @@ visualization</y:NodeLabel>
         <node id="n1::n6">
           <data key="d6">
             <y:GenericNode configuration="com.yworks.flowchart.process">
-              <y:Geometry height="40.0" width="137.97013963851532" x="978.4258622135899" y="177.1711401365032"/>
+              <y:Geometry height="40.0" width="137.97013963851532" x="978.4258622135899" y="166.4228729979785"/>
               <y:Fill color="#3B4865" color2="#3B4865" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="27.5546875" modelName="custom" textColor="#FFFFFF" visible="true" width="137.14453125" x="0.41280419425766013" y="6.22265625">Data analyses<y:LabelModel>
@@ -836,7 +836,7 @@ visualization</y:NodeLabel>
         <node id="n1::n7">
           <data key="d6">
             <y:GenericNode configuration="com.yworks.flowchart.data">
-              <y:Geometry height="41.31664567179723" width="174.27455758024666" x="960.2736532427243" y="340.47173900535915"/>
+              <y:Geometry height="41.31664567179723" width="174.27455758024666" x="960.2736532427243" y="321.9191819405112"/>
               <y:Fill color="#3B4865" color2="#3B4865" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="27.5546875" modelName="custom" textColor="#FFFFFF" visible="true" width="149.21484375" x="12.529856915123219" y="6.880979085898616">Output dataset<y:LabelModel>
@@ -854,7 +854,7 @@ visualization</y:NodeLabel>
     <node id="n2">
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
-          <y:Geometry height="64.82738887404571" width="174.27455758024678" x="788.5854968645812" y="615.397028966913"/>
+          <y:Geometry height="64.82738887404571" width="174.27455758024678" x="788.5854968645812" y="560.7433008956375"/>
           <y:Fill color="#3B4865" color2="#3B4865" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="51.109375" modelName="custom" textColor="#FFFFFF" visible="true" width="117.96484375" x="28.154856915123332" y="6.859006937022855">Taxonomic 
@@ -871,7 +871,7 @@ information<y:LabelModel>
     <node id="n3">
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
-          <y:Geometry height="64.82738887404571" width="156.1712570648009" x="1155.4965605652478" y="615.397028966913"/>
+          <y:Geometry height="64.82738887404571" width="156.1712570648009" x="1155.4965605652478" y="560.7433008956375"/>
           <y:Fill color="#3B4865" color2="#3B4865" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="51.109375" modelName="custom" textColor="#FFFFFF" visible="true" width="117.69140625" x="19.239925407400506" y="6.859006937022855">Functional 
@@ -888,7 +888,7 @@ information<y:LabelModel>
     <node id="n4">
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.terminator">
-          <y:Geometry height="72.31664567179723" width="282.17650632740003" x="906.3226788691475" y="719.0056732566696"/>
+          <y:Geometry height="72.31664567179723" width="282.17650632740003" x="906.3226788691475" y="640.5706897696832"/>
           <y:Fill color="#3B4865" color2="#3B4865" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="20" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="51.109375" modelName="custom" textColor="#FFFFFF" visible="true" width="233.326171875" x="24.425167226200074" y="10.603635335898616">Related taxonomic and 
